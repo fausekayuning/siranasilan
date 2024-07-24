@@ -1,0 +1,139 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.logo-word {
+  font-weight: bold;
+}
+
+.menu-wrapper {
+  display: flex;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu-item {
+  margin-left: 10px;
+}
+
+.menu-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Halaman */
+.halaman {
+  padding: 20px;
+}
+
+.landing {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.kolom {
+  margin-top: 20px;
+}
+
+.tbl-abu-abu {
+  display: inline-block;
+  background-color: #ccc;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.tbl-sage {
+  display: inline-block;
+  background-color: #8db596;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Login */
+#Login {
+  margin-top: 50px;
+}
+
+.deskripsi {
+  font-style: italic;
+}
+
+.input {
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.tbl-fren {
+  display: inline-block;
+  background-color: #ff6666;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Sign Up */
+#Sign-Up {
+  margin-top: 50px;
+}
+
+.tbl-sage {
+  display: inline-block;
+  background-color: #8db596;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Beranda */
+#Beranda {
+  margin-top: 50px;
+}
+
+.background {
+  text-align: center;
+}
+
+.background img {
+  max-width: 100%;
+}
+
+.deskripsi {
+  font-style: italic;
+}
